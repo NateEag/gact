@@ -53,7 +53,7 @@ class SimpleForm extends React.Component {
 }
 ```
 
-`onChange` React will create a virtual node representing the new view for `SimpleFrom`. It will look like this:
+`onChange` React will create a virtual node representing the new view for `SimpleForm`. It will look like this:
 
 ```javascript
 let vnode = {
